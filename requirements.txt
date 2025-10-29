@@ -1,0 +1,7 @@
+PySide6
+pandas
+openpyxl
+beautifulsoup4
+requests
+ddgs
+playwright
