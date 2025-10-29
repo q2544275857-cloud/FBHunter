@@ -1,0 +1,29 @@
+# 🔧 Python 编译缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 🧠 应用缓存和数据库
+cache/
+data/
+logs/
+*.db
+*.sqlite
+*.log
+
+# 🧩 临时导出和打包
+*.zip
+*.exe
+*.spec
+build/
+dist/
+
+# ⚙️ IDE / 系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 🔐 Cookies / 配置文件（可选）
+cookies/
+settings.json
